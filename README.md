@@ -17,7 +17,7 @@ Our project combines technology from path machine learning, android, and cloud c
 ## Each Learning Path Repository
 - Machine Learning
   - [BerBuah Machine Learning Training](https://github.com/andriefatah/)
-- Cloud Computing Repo
+- Cloud Computing
   - [BerBuah RESTful API & API Specification](https://github.com/andriefatah/berbuah-restful-api)
 - Android
-  - [BerBuah App Repository](https://github.com/nraliim/BerBuah)
+  - [BerBuah Android App](https://github.com/nraliim/BerBuah)
