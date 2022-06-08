@@ -14,7 +14,10 @@ Our project combines technology from path machine learning, android, and cloud c
 | Muhammad Nur Aliim              | A2355G2902    | Android Developer |
 | Ananda Fajar Setyawan           | A2355G2903    | Android Developer |
 
-## Branch
-* <a href='#'>Machine Learning Repo</a>
-* <a href='https://github.com/andriefatah/berbuah-restful-api'>Cloud Computing Repo</a>
-* <a href='Ok, nanti tak coba follow up via '>Android Developer Repo</a>
+## Each Learning Path Repository
+- Machine Learning
+  - [BerBuah Machine Learning Training](https://github.com/andriefatah/)
+- Cloud Computing Repo
+  - [BerBuah RESTful API & API Specification](https://github.com/andriefatah/berbuah-restful-api)
+- Android
+  - [BerBuah App Repository](https://github.com/nraliim/BerBuah)
