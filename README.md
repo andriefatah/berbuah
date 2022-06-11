@@ -16,7 +16,7 @@ Our project combines technology from path machine learning, android, and cloud c
 
 ## Each Learning Path Repository
 - Machine Learning
-  - [BerBuah Machine Learning Training](https://github.com/IlyasaAffan/BerBuah-Machine-Learning-Path.git)
+  - [BerBuah Machine Learning Training](https://github.com/sheerlynEliza/Capstone-Project-BerBuah.git)
 - Cloud Computing
   - [BerBuah RESTful API & API Specification](https://github.com/andriefatah/berbuah-restful-api)
 - Android
